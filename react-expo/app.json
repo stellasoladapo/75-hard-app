@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "75 Hard Tracker",
+    "slug": "75-hard-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#DDE9D7"
+      }
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow 75 Hard Tracker to access your photos for daily progress pictures."
+        }
+      ],
+      "expo-asset"
+    ]
+  }
+}

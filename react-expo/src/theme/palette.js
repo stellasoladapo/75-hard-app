@@ -1,0 +1,15 @@
+export const palette = {
+  forest: "#315C3D",
+  moss: "#5E8C61",
+  sage: "#A9C3A0",
+  sunrise: "#E7B97D",
+  earth: "#9B7152",
+  sand: "#F5E8D4",
+  mist: "#EEF4EA",
+  card: "rgba(249, 246, 239, 0.88)",
+  ink: "#223127",
+  stone: "#6C796D",
+  line: "rgba(49, 92, 61, 0.12)",
+  success: "#4B8B4F",
+  warning: "#D28A57",
+};
